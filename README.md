@@ -1,4 +1,4 @@
-# Sistema de Login em Python
+# Sistema de Cadastros e Login em Python
 
 Este é um projeto simples de sistema de login desenvolvido em Python.
 
