@@ -12,11 +12,8 @@ Tudo foi feito de forma simples, usando apenas funcionalidades básicas da lingu
 
 ## 🛠 Tecnologias
 
-Python 3
 
-![Python Logo](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
-
-Google Colab
+- ![Python Logo](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
+- ![Google Colab Logo](https://colab.research.google.com/img/colab_favicon_256px.png)
 
 
-![Google Colab Logo](https://upload.wikimedia.org/wikipedia/commons/1/19/Google_Colaboratory_Logo.svg)
