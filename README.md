@@ -12,8 +12,8 @@ Tudo foi feito de forma simples, usando apenas funcionalidades básicas da lingu
 
 ## 🛠 Tecnologias
 
-
-- ![Python Logo](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
-- ![Google Colab Logo](https://colab.research.google.com/img/colab_favicon_256px.png)
-
+<p float="left">
+![Python Logo](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
+![Google Colab Logo](https://colab.research.google.com/img/colab_favicon_256px.png)
+<p>
 
