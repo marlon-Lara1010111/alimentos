@@ -71,4 +71,4 @@ Média de Preços: R$ 5.75
 Valor Total em Estoque: R$ 11890.50
 ```
 
-
+Projeto do Senai - Curso Desenvolvimento de Sistemas
