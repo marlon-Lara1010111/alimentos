@@ -11,9 +11,10 @@ O sistema permite que o usuário:
 Tudo foi feito de forma simples, usando apenas funcionalidades básicas da linguagem.
 
 ## 🛠 Tecnologias
+<P> float="left
 
-<p float="left">
 ![Python Logo](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
 ![Google Colab Logo](https://colab.research.google.com/img/colab_favicon_256px.png)
-<p>
+
+</P>
 
