@@ -13,8 +13,8 @@ Tudo foi feito de forma simples, usando apenas funcionalidades básicas da lingu
 ## 🛠 Tecnologias
 <P> 
 
-![Python Logo](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
-![Google Colab Logo](https://colab.research.google.com/img/colab_favicon_256px.png)
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt=Python" width="150" />
+<img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt=Colab" width="150" />
 
 </P>
 
