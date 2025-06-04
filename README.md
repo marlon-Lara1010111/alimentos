@@ -12,5 +12,10 @@ Tudo foi feito de forma simples, usando apenas funcionalidades básicas da lingu
 
 ## 🛠 Tecnologias
 
-- Python 3
-- Colab
+## 🐍 Python 3
+
+![Python 3 Logo](https://www.python.org/static/community/logos/python-logo-master-v3-TM.png)
+
+## ☁️ Google Colab
+
+![Google Colab Logo](https://upload.wikimedia.org/wikipedia/commons/1/19/Google_Colaboratory_Logo.svg)
