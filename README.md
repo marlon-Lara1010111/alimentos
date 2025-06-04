@@ -14,7 +14,7 @@ Tudo foi feito de forma simples, usando apenas funcionalidades básicas da lingu
 <P> 
 
 <img src=https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg alt=Python width="150" />
-<img src=https://colab.research.google.com/img/colab_favicon_256px.png" alt=Colab width="150" alt= />
+<img src=https://colab.research.google.com/img/colab_favicon_256px.png alt=Python width="150" />
 
 </P>
 
