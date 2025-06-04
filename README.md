@@ -71,14 +71,4 @@ Média de Preços: R$ 5.75
 Valor Total em Estoque: R$ 11890.50
 ```
 
-## 🚀 Melhorias Futuras
 
-1. Adicionar sistema de login
-2. Implementar desconto por quantidade
-3. Adicionar opção para remover itens do carrinho
-4. Salvar histórico de compras
-5. Interface gráfica (Tkinter/PyQt)
-
-## 📄 Licença
-
-Este projeto está licenciado sob a licença MIT.
