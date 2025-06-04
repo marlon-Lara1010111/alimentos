@@ -5,8 +5,10 @@ Este é um projeto simples de sistema de login desenvolvido em Python.
 ## 📌 Sobre
 
 O sistema permite que o usuário:
-- Faça login com as credenciais cadastradas
-- Verifique se as credenciais estão corretas
+
+- Faça o cadastro de suas informações
+- Faça login com as informações cadastradas
+- Verifique se as informações estão corretas
 
 Tudo foi feito de forma simples, usando apenas funcionalidades básicas da linguagem.
 
